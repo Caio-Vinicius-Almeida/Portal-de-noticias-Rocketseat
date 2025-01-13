@@ -12,9 +12,28 @@
   --stroke-color: #1e293b;
   --text-color-primary: #f1f5f9;
   --text-color-secondary: #cbd5e1;
+
+  --font-family: "Archivo", serif;
+  --h1: 800 1.5rem/135% var(--font-family);
+  --h2: 800 1rem/140% var(--font-family);
+  --h3: 800 0.875rem/140% var(--font-family);
+  --text-span: 600 0.875rem/140% var(--font-family);
+  --text: 400 1rem/140% var(--font-family);
+  --text-sm: 400 0.875rem/160% var(--font-family);
 }
 
 body {
   background-color: var(--bg-color);
   color: var(--text-color-primary);
+  font: var(--text);
+}
+
+a:hover {
+  color: var(--brand-color-light);
+}
+
+h1,
+h2,
+h3 {
+  font: inherit;
 }
