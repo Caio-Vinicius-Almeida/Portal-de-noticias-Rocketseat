@@ -32,8 +32,22 @@ a:hover {
   color: var(--brand-color-light);
 }
 
+.container {
+  max-width: 80rem;
+  padding-inline: 2rem;
+  margin-inline: auto;
+}
+
 h1,
 h2,
 h3 {
   font: inherit;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
 }
