@@ -17,5 +17,15 @@
       inset: 0;
       position: absolute;
     }
+
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      padding: 1.5rem;
+
+      h2 {
+        margin-top: 0.5rem;
+      }
+    }
   }
 }
