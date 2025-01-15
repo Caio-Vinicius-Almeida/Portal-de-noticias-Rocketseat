@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://caio-vinicius-almeida.github.io/Portal-de-noticias/)
+- [Acesse o projeto finalizado, online](https://caio-vinicius-almeida.github.io/Portal-de-noticias-Rocketseat/)
 
 ## 🔖 Layout
 
